@@ -1,6 +1,6 @@
 # BlackJack OCaml
 
-### <a>Done Beta:</a>
+### <a>Features:</a>
 <ul>
 <li>Computer AI
 <li>Split
