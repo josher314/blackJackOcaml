@@ -1,0 +1,15 @@
+#require "oUnit";;
+#require "ANSITerminal";;
+#require "qcheck";;
+#require "yojson";;
+#require "unix";;
+#directory "_build";;
+#load "player.cmo";;
+#load "deck.cmo";;
+#load "blackjack.cmo";;
+#load "command.cmo";;
+#load "bet.cmo";;
+#load "computer.cmo";;
+#load "formatc.cmo";;
+#load "strings.cmo";;
+#load "training.cmo";;
